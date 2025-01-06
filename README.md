@@ -21,3 +21,5 @@ number of major vessels (0-3) colored by flourosopy
 thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
 HeartDisease:: Heart Disease occured. (0 = No, 1 = Yes)
 
+from these inputs my model is predicting that a person is having heart disease or not 
+
