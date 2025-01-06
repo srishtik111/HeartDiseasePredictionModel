@@ -1,6 +1,6 @@
 # Heart Disease Prediction Model
 
-I have created a  machine learning model which will predict that a person is having heart disease or not.
+I have created a  machine learning model for  heart disease prediction .
 
 I have used kaggle dataset for training my model .
 
